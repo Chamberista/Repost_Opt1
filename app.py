@@ -1,3 +1,3 @@
 nombre = str(input("Introduce su nombre: "))
 
-print("Hola" , nombre)
+print("HOLA" , nombre)
