@@ -8,3 +8,5 @@ else:
     print(nombre + "  es menor de edad")
 
 print("nueva cosota")
+
+print("Cardo")
