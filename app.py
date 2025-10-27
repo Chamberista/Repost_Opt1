@@ -7,6 +7,6 @@ if edad >= 18:
 else:
     print(nombre + "  es menor de edad")
 
-print("nueva cosota")
+print("nueva cosa")
 
 print("Cardo")
