@@ -28,3 +28,7 @@ numero1 = 45
 numero2 = 5
 division = numero1 / numero2
 print(f"El resultado de la division es: {division}")
+
+numero3 = 66
+media = (numero1 + numero2 + numero3)/3
+print(f"El resultado de la media es: {media}")
